@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.createcrypto {
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-bottom: 10px;
+    width: 350px;
+}
+.createcrypto:hover {
+    background-color: aqua;
+}
+.createnft {
+    margin-left: 500px;
+    display: block ;
+    width: 350px;
+}
+.createnft:hover {
+    background-color: aqua ;
+}

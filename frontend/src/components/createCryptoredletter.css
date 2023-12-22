@@ -1,0 +1,20 @@
+.mxnoofparticipants {
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-bottom: 10px;
+    width: 350px;
+}
+.totprizepoolinredletter {
+    margin-left: 500px;
+    margin-bottom : 10px ;
+    display:block;
+    width: 350px;
+}
+.createredletter {
+    margin-left: 500px;
+    display: block ;
+    width: 350px;
+}
+.createredletter:hover {
+    background-color:cyan;
+}
